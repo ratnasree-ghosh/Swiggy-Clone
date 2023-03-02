@@ -197,7 +197,7 @@
 
 .card{
     
-    width: 85%;
+    width: 86%;
     
     display: flex;
     flex-flow: column wrap;
@@ -224,12 +224,12 @@
     width: 100%;
     height: 40%;
     
-    padding-bottom: 20px;
+    padding-bottom: 15px;
 }
 
 .card h2{
     
-    font-size: 26px;
+    font-size: 19px;
     font-weight: 500;
     letter-spacing: 1px;
     padding-bottom: 10px;
@@ -237,7 +237,7 @@
 
 .card p{
     color: #686b78;
-   
+   font-size: 15px;
     font-weight: 300;
     line-height: 20px;
     line-height: 24px;
