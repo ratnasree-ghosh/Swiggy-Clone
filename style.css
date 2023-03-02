@@ -31,14 +31,14 @@
     justify-content: center;
     align-items: center;
     gap: 12px;
-    font-size: 13px;
+    font-size: 16px;
 }
 
 #other{
     color: 3d4152;
     font-weight: 600;
     padding-bottom: 1px;
-    font-size: 14px;
+    font-size: 16px;
     border-bottom: 4px solid #3d4152;
     
     
@@ -118,7 +118,7 @@
 }
 
 .items .material-icons{
-    font-size: 15px;
+    font-size: 18px;
     color: #888888;
     font-weight: 400;
     
