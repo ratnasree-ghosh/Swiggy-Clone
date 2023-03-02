@@ -77,7 +77,7 @@
 
 .left-nav .material-icons{
     color: #FC8019 ;
-    font-size: 18px;
+    font-size: 20px;
     
 }
 
@@ -334,7 +334,7 @@
     color: white;
     display: inline-block;
     position: absolute;
-    left: -20px;
+    left: -17px;
     padding: 6px 10px;
     font-size: 10px;
     z-index: 5;
@@ -347,7 +347,7 @@
     height: 20px;
     width: 20px;
     background-color: #3A3C41;
-    left: 1px;
+    left: 3px;
     top: 19px;
     transform: skewY(40deg);
 }
