@@ -259,12 +259,12 @@
     justify-content: flex-start;
     gap: 3px;
     background-color: #DB7C38;
-    padding: 3px 5px;
+    padding: 3px 7px;
     color: white;
 }
 
 .rating > .material-icons{
-    font-size: 15px;
+    font-size: 12px;
 }
 .rating-container{
     display: flex;
