@@ -237,10 +237,10 @@
 
 .card p{
     color: #686b78;
-   font-size: 15px;
-    font-weight: 300;
+   font-size: 14px;
+    font-weight: 100;
     line-height: 20px;
-    line-height: 24px;
+    
     padding-bottom: 10px;
     
 }
@@ -336,7 +336,7 @@
     position: absolute;
     left: -20px;
     padding: 6px 10px;
-    font-size: 12px;
+    font-size: 10px;
     z-index: 5;
 }
 
