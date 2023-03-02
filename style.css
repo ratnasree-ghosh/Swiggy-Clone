@@ -174,8 +174,8 @@
     
 }
 .filters > span{
-    padding-top: 5px;
-    padding-bottom: 12px ;
+    padding-top: 7px;
+    padding-bottom: 14px ;
 }
 
 .filters > .some-items:hover{
@@ -336,7 +336,7 @@
     position: absolute;
     left: -10px;
     padding: 6px 10px;
-    font-size: 10px;
+    font-size: 12px;
     z-index: 5;
 }
 
