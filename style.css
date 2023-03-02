@@ -148,7 +148,7 @@
 .rest-container{
     
     display: flex;
-    
+    padding-top: 20px;
     justify-content: space-between;
     align-items: center;
     border-bottom: 1px solid  #E9E9EB;
