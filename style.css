@@ -202,7 +202,7 @@
     display: flex;
     flex-flow: column wrap;
     padding: 20px;
-    padding-bottom: 15px;
+    padding-bottom: 10px;
     gap: 10px;
     
     
@@ -260,12 +260,12 @@
     justify-content: flex-start;
     gap: 3px;
     background-color: #DB7C38;
-    padding: 5px 8px;
+    padding: 3px 5px;
     color: white;
 }
 
 .rating > .material-icons{
-    font-size: 17px;
+    font-size: 15px;
 }
 .rating-container{
     display: flex;
