@@ -53,7 +53,7 @@
 #location{
     font-weight: 300;
     color: #686b78;
-    font-size:12px;
+    font-size:13px;
 }
 
 
@@ -290,7 +290,7 @@
     justify-content: flex-start;
     align-items: center;
     gap: 10px;
-    padding: 12px 0;
+    padding: 8px 0;
     color: #8a584b;
     font-size: 13px;
 }
@@ -300,8 +300,8 @@
     background-color: #fff;
     color: #5d8ed5;
     font-weight: 600;
-    font-size: 18px;
-    padding: 10px 0;
+    font-size: 14px;
+    padding: 5px 0;
    display: flex; 
    justify-content: center;
    
